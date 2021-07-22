@@ -1,0 +1,12 @@
+.contact-para {
+    padding: 20px;
+    text-align: center;
+    color: rgb(243, 194, 31);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.oper {
+    background-color: antiquewhite;
+    opacity: 70%;
+}
